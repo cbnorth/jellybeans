@@ -1,0 +1,317 @@
+{
+    "red": [
+      {
+        "id": 1,
+        "flavors": [
+            {
+                "name": "red1",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red2",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red3",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red4",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red5",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red6",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red7",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red8",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red9",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red10",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "flavors": [
+            {
+                "name": "red11",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red12",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red13",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red14",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red15",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red16",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red17",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red18",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red19",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red20",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            }
+        ]
+      },
+      {
+        "id": 3,
+        "flavors": [
+            {
+                "name": "red21",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red22",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red23",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red24",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red25",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red26",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red27",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red28",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red29",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red30",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            }
+        ]
+      },
+      {
+        "id": 4,
+        "flavors": [
+            {
+                "name": "red31",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red32",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red33",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            },
+            {
+                "name": "red34",
+                "year": 1992,
+                "imageUrl": "/poster/banana.jpg",
+                "summary": "……..",
+                "uid": "SF983"
+            },
+            {
+                "name": "red35",
+                "year": 1990,
+                "imageUrl": "/poster/popcorn.jpg",
+                 "summary": "……..",
+                "uid": "ASDF9"
+            },
+            {
+                "name": "red36",
+                "year": 1991,
+                "imageUrl": "/poster/pina.jpg",
+                 "summary": "……..",
+                "uid": "1JD76"
+            },
+            {
+                "name": "red37",
+                "year": 1992,
+                "imageUrl": "poster/lemon.jpg",
+                 "summary": "……..",
+                "uid": "D890D"
+            }
+        ]
+      }
+    ],
+    "green": [
+        {
+          "id": 1,
+          "flavors": [{"x": 10, "y": 10}]
+        },
+        {
+          "id": 2,
+          "flavors": [{"x": 5, "y": 7, "size": 3}, {"x": 10, "y": 10, "size": 5}]
+        },
+        {
+          "id": 3,
+          "flavors": [{"x": 5, "y": 7, "size": 3}, {"x": 10, "y": 10, "size": 3}, {"x": 5, "y": 15, "size": 5}]
+        }
+      ],
+      "blue": [
+        {
+          "id": 1,
+          "flavors": [{"x": 10, "y": 10}]
+        }
+      ],
+      "yellow": [
+        {
+          "id": 1,
+          "flavors": [{"x": 10, "y": 10}]
+        },
+        {
+          "id": 2,
+          "flavors": [{"x": 5, "y": 7, "size": 3}, {"x": 10, "y": 10, "size": 5}]
+        },
+        {
+            "id": 3,
+            "flavors": [{"x": 5, "y": 7, "size": 3}, {"x": 10, "y": 10, "size": 5}]
+          }
+      ]
+  }
